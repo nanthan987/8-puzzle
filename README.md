@@ -3,6 +3,7 @@ Assignment 4 of **Algorithms, Part I** by **Princeton University**, taught by **
 https://www.coursera.org/learn/algorithms-part1
 
 Specification of the assignment:
+
 https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
 
 A program was written to solve an 8-puzzle (and it's natural generalizations) using the A* algorithm.
